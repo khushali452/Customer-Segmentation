@@ -1,2 +1,2 @@
 # Customer-Segmentation
-Customer Segmentation using KNN Machine learning algorithm
+Customer Segmentation using K-Means Machine learning algorithm
